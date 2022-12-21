@@ -1,7 +1,5 @@
 Adam Joseph Nassar PA1
 
-I decided to code from scratch as opposed to the code demonstrated in the video
-
 Results:
 
 OUTPUT A
